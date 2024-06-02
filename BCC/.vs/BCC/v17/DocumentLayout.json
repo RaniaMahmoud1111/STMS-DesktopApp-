@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|c:\\users\\mostafa3bas\\source\\repos\\bcc\\bcc\\training_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\training_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\project form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\project form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\enter your email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\enter your email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\attending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\attending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\training_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\training_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\project form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\project form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\attending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\attending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\enter your email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\enter your email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\bcc\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A853F359-0A6B-4F50-BAFC-C0BEBC1F0310}|BCC\\BCC.csproj|solutionrelative:bcc\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Project Form.cs",
+              "RelativeDocumentMoniker": "BCC\\Project Form.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Project Form.cs [Design]",
+              "RelativeToolTip": "BCC\\Project Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-28T14:16:04.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Training_Events.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Training_Events.cs",
+              "RelativeDocumentMoniker": "BCC\\Training_Events.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Training_Events.cs [Design]",
+              "RelativeToolTip": "BCC\\Training_Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T02:53:59.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attending.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Attending.cs",
+              "RelativeDocumentMoniker": "BCC\\Attending.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Attending.cs [Design]",
+              "RelativeToolTip": "BCC\\Attending.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-28T02:04:42.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enter Your Email.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Enter Your Email.cs",
+              "RelativeDocumentMoniker": "BCC\\Enter Your Email.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Enter Your Email.cs [Design]",
+              "RelativeToolTip": "BCC\\Enter Your Email.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T23:18:51.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trainee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Trainee.cs",
+              "RelativeDocumentMoniker": "BCC\\Trainee.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Trainee.cs [Design]",
+              "RelativeToolTip": "BCC\\Trainee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T18:38:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Members.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Members.cs",
+              "RelativeDocumentMoniker": "BCC\\Members.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Members.cs [Design]",
+              "RelativeToolTip": "BCC\\Members.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T18:37:49.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Form1.cs",
+              "RelativeDocumentMoniker": "BCC\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Form1.cs [Design]",
+              "RelativeToolTip": "BCC\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T18:37:34.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Program.cs",
+              "RelativeDocumentMoniker": "BCC\\Program.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Program.cs",
+              "RelativeToolTip": "BCC\\Program.cs",
+              "ViewState": "AQIAAAcAAACAMDMzMzMLwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T18:58:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Training_Events.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Training_Events.cs",
+              "RelativeDocumentMoniker": "BCC\\Training_Events.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Training_Events.cs",
+              "RelativeToolTip": "BCC\\Training_Events.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAArwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T17:53:47.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Trainee.cs",
+              "RelativeDocumentMoniker": "BCC\\Trainee.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Trainee.cs",
+              "RelativeToolTip": "BCC\\Trainee.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T23:11:25.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project Form.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Project Form.cs",
+              "RelativeDocumentMoniker": "BCC\\Project Form.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Project Form.cs",
+              "RelativeToolTip": "BCC\\Project Form.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAAABoBAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-28T14:16:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Form1.cs",
+              "RelativeDocumentMoniker": "BCC\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Form1.cs",
+              "RelativeToolTip": "BCC\\Form1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAC0BAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T18:39:03.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Attending.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Attending.cs",
+              "RelativeDocumentMoniker": "BCC\\Attending.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Attending.cs",
+              "RelativeToolTip": "BCC\\Attending.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-29T01:29:46.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enter Your Email.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Enter Your Email.cs",
+              "RelativeDocumentMoniker": "BCC\\Enter Your Email.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Enter Your Email.cs",
+              "RelativeToolTip": "BCC\\Enter Your Email.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-27T23:23:36.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Members.cs",
+              "DocumentMoniker": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Members.cs",
+              "RelativeDocumentMoniker": "BCC\\Members.cs",
+              "ToolTip": "C:\\Users\\Mostafa3bas\\source\\repos\\BCC\\BCC\\Members.cs",
+              "RelativeToolTip": "BCC\\Members.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAiwGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-28T12:06:05.48Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

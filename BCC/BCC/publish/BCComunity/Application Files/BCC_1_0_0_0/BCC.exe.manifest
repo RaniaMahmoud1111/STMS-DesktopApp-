@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BCC.exe" version="1.0.0.0" publicKeyToken="0336d38a3f0717c4" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BCC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BCC.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BCC.exe" size="4279816">
+      <assemblyIdentity name="BCC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3bytcvGio363QdrIiLNwSdr+cpHGCZ4bQ+GrCVob50w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BCC.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-95A74GO\Mostafa3bas" issuerKeyHash="bbc9922feaf2fada301138a79571e49ef097951c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2M5Ml+qfwfpk/O8KwV8vqYiryiByTm4LsF6/PokWyAo=</DigestValue></Reference></SignedInfo><SignatureValue>6CEeVRfG4j/Q19AZu8swJ6/80bHa12zyPrxkHBDmnmL35esp5+zwFy57V50NAGAok4J0FfEdsQljK10IzTsHm6Jeo3fzteIKVvtJUmIGT1aHoK94YgI4leA7l9cMNZVhNjITD/1ZvzbEuoomPlOwQFlsv1NJYyrwDtt6JIlTn7Y=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7hDEzJ3VYxJDDKpUi4Kw5C1lZQjGK+9B8xFRT0Owy+pHN6s7k6nEbt5p4l4IZbNOuZYUyN7t/4F1e7K8BTxYbKCknW/k8ZT3/tq0/tCzDMexsOYsvwtUkglz51VvwIzzlS3+gTvsOoBDvsiydPb/swOYz6MdYEcz7hA8Gn64Twk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0ac816893ebf5eb00b6e4e7220caab88a92f5fc10aeffc64fac19fea974cced8" Description="" Url=""><as:assemblyIdentity name="BCC.exe" version="1.0.0.0" publicKeyToken="0336d38a3f0717c4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-95A74GO\Mostafa3bas</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gtIcbHEQsljhH+GdB5hDi1ccJXSS0xH0thX2dumpOsw=</DigestValue></Reference></SignedInfo><SignatureValue>H854zMYluoGsHcf4naj86UQ8YFlMQjttcJrVCOfcc/96tEwMRBdiAedtPFag0jdkL9EEmllbRPNwdJAGxwD7gS+Vm2xSMk2Zeq2ypIv0y9AaPB7ATdxrWMCK3vZojFHL6g0wqnMSdszb8P2qAop/PdQ4iDV7PsD13bUwHcY0AGE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7hDEzJ3VYxJDDKpUi4Kw5C1lZQjGK+9B8xFRT0Owy+pHN6s7k6nEbt5p4l4IZbNOuZYUyN7t/4F1e7K8BTxYbKCknW/k8ZT3/tq0/tCzDMexsOYsvwtUkglz51VvwIzzlS3+gTvsOoBDvsiydPb/swOYz6MdYEcz7hA8Gn64Twk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICBTCCAW6gAwIBAgIQIHTe5dzwb4hPGB2e2DQqDDANBgkqhkiG9w0BAQsFADBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtADkANQBBADcANABHAE8AXABNAG8AcwB0AGEAZgBhADMAYgBhAHMwHhcNMjMwOTIzMTY0NTE4WhcNMjQwOTIyMjI0NTE4WjBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtADkANQBBADcANABHAE8AXABNAG8AcwB0AGEAZgBhADMAYgBhAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAO4QxMyd1WMSQwyqVIuCsOQtZWUIxivvQfMRUU9DsMvqRzerO5OpxG7eaeJeCGWzTrmWFMje7f+BdXuyvAU8WGygpJ1v5PGU9/7atP7QswzHsbDmLL8LVJIJc+dVb8CM85Ut/oE77DqAQ77IsnT2/7MDmM+jHWBHM+4QPBp+uE8JAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAWKR2kMh4Wj7Jc2SIGH7PwJZMb5sYAeyB/6uk014sdJI0mOuSHTlP/rG7m28A5gYvOyMOsZPIVWssCiCiZtLO2UWcWXDOo1CZPwphPbHk3EyHsEswSVY4TX1NJ3OMmdG8er6gp1TdUZ4HwSTLKVd9mEwWc2eQ4oRxkGdGYuKnp1M=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
